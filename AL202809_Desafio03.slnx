@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AL202809_Desafio03/AL202809_Desafio03.csproj" />
+  <Project Path="AL208209_Desafio3.BL/AL208209_Desafio3.BL.csproj" />
+  <Project Path="AL208209_Desafio3.Common/AL208209_Desafio3.Common.csproj" />
+  <Project Path="AL208209_Desafio3.DAL/AL208209_Desafio3.DAL.csproj" />
+  <Project Path="AL208209_Desafio3.Entities/AL208209_Desafio3.Entities.csproj" />
+  <Project Path="AL208209_Desafio3.Tests/AL208209_Desafio3.Tests.csproj" />
+</Solution>

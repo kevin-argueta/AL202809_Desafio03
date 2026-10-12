@@ -1,0 +1,6 @@
+@AL202809_Desafio03_HostAddress = http://localhost:5247
+
+GET {{AL202809_Desafio03_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
